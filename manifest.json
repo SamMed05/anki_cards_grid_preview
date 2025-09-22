@@ -1,0 +1,9 @@
+{
+  "package": "cards_grid_preview",
+  "name": "Cards Grid Preview",
+  "mod": 0,
+  "conflicts": [],
+  "min_point_version": 50,
+  "max_point_version": 0,
+  "branch_index": 0
+}

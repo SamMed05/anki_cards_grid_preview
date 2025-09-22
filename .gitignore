@@ -1,0 +1,13 @@
+# Ignore Anki-related cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
