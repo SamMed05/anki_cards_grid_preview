@@ -1,6 +1,8 @@
-# Cards Grid Preview
+# Anki Flashcards Grid Preview
 
 An Anki add-on that displays all cards from the currently selected deck in a customizable, paginated grid view. Perfect for previewing at a glance all the cards in a visual deck.
+
+![screenshot](screenshot.png)
 
 ## Features
 
